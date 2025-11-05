@@ -1,0 +1,1 @@
+## FERRAMENTA UTILIZADA: ElevenLabs
