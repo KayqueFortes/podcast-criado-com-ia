@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Projeto desenvolvido durante o Bootcamp <strong>Fundamentos da IA Generativa</strong> da <a href="https://www.dio.me/">DIO</a>.</em>
+  <em>Projeto desenvolvido durante o Bootcamp <strong>Fundamentos de IA Generativa</strong> da <a href="https://www.dio.me/">DIO</a>.</em>
 </p>
 
 ---
